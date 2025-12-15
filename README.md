@@ -2,6 +2,13 @@
 
 I'm a data analyst.
 
+</div>
+
+[<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rociorvf7@gmail.com)
+[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roc%C3%ADo-lozano-caro/)
+
+</div>
+
 I'm working on different projects using the following tools:
 
 
