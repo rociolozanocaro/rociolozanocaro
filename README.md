@@ -8,7 +8,7 @@ I'm working on different projects using the following tools:
 ### Bases de Datos
 ![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Science & Visualization
+### Data Analysis & Visualization
 ![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://custom-icon-badges.demolab.com/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
