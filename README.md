@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Soy Rocío y estoy en un bootcamp de análisis de datos.
+Estoy aprendiendo a usar GitHub, Python, Google Colab, SQL y Excel.
 <!--
 **rociolozanocaro/rociolozanocaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
