@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rocío
 
-Junior Data Analyst with technical training in Python, SQL, Excel and Power BI, and an academic background in Chemistry. Experienced in projects involving data cleaning, exploratory analysis, supervised and unsupervised modeling, and visualization.
+Junior Data Analyst with technical training in Python, SQL, Excel and Power BI, and an academic background in Chemistry. Experienced in projects involving data cleaning, exploratory analysis, supervised and unsupervised modeling, and visualization. Familiar with algorithms such as Random Forest and techniques like PCA and KMeans, with hyperparameter optimization using GridSearch and RandomSearch.
 
 I apply a scientific approach to every phase of the analysis, from data cleaning to interpreting results. Especially interested in translating data into actionable conclusions that support data-driven decision-making.
 
