@@ -1,42 +1,42 @@
-## Hi there 👋
+## Hi there 👋 I'm Rocío
 
-I'm a data analyst.
+Junior Data Analyst with technical training in Python, SQL, Excel and Power BI, and an academic background in Chemistry. Experienced in projects involving data cleaning, exploratory analysis, supervised and unsupervised modeling, and visualization.
 
-</div>
+I apply a scientific approach to every phase of the analysis, from data cleaning to interpreting results. Especially interested in translating data into actionable conclusions that support data-driven decision-making.
 
-[<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rociorvf7@gmail.com)
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roc%C3%ADo-lozano-caro/)
+🔗[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-38bdf8.svg?style=for-the-badge&logo=globe&logoColor=white)](https://rociolozanocaro.netlify.app) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rociolozanocaro/)
 
-</div>
+    rociorvf7@gmail.com
 
-I'm working on different projects using the following tools:
+---
 
+### 🗄️ Databases
 
-### Bases de Datos
-![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### Data Analysis & Visualization
-![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://custom-icon-badges.demolab.com/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://custom-icon-badges.demolab.com/badge/Seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+---
 
-### DevOps & Tools
-![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+### 📊 Data Analysis & Visualization
 
-<!--
-**rociolozanocaro/rociolozanocaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://custom-icon-badges.demolab.com/badge/Seaborn-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://custom-icon-badges.demolab.com/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Machine Learning
+
+[![Scikit-learn](https://custom-icon-badges.demolab.com/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
+---
+
+### 🛠️ Tools
+
+[![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rociolozanocaro)
+[![Jupyter](https://custom-icon-badges.demolab.com/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Google Colab](https://custom-icon-badges.demolab.com/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
