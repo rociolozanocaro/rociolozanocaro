@@ -40,3 +40,14 @@ I apply a scientific approach to every phase of the analysis, from data cleaning
 [![Jupyter](https://custom-icon-badges.demolab.com/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Google Colab](https://custom-icon-badges.demolab.com/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [Unsupervised Modeling](https://github.com/rociolozanocaro/unsupervised_modeling) | Mushroom classification using PCA, KMeans and Random Forest | Python, Scikit-learn |
+| [Exploratory Data Analysis](https://github.com/rociolozanocaro/Exploratory_Data_Analysis) | EDA on a veterinary clinical dataset | Python, Pandas, Seaborn |
+| [Power BI AirBnB](https://github.com/rociolozanocaro/PowerBI_AirBB) | Interactive dashboard analyzing AirBnB data from 6 cities | Power BI, DAX |
