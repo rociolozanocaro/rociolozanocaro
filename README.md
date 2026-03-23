@@ -2,7 +2,7 @@
 
 Junior Data Analyst with technical training in Python, SQL, Excel and Power BI, and an academic background in Chemistry. Experienced in projects involving data cleaning, exploratory analysis, supervised and unsupervised modeling, and visualization. Familiar with algorithms such as Random Forest and techniques like PCA and KMeans, with hyperparameter optimization using GridSearch and RandomSearch.
 
-I apply a scientific approach to every phase of the analysis, from data cleaning to interpreting results. Especially interested in translating data into actionable conclusions that support data-driven decision-making.
+I apply a scientific approach to every phase of the analysis, from data cleaning to interpreting results. I have worked on team projects following agile methodology (Scrum, Kanban). Especially interested in translating data into actionable conclusions that support data-driven decision-making.
 
 🔗[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-38bdf8.svg?style=for-the-badge&logo=globe&logoColor=white)](https://rociolozanocaro.netlify.app) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rociolozanocaro/)
 
